@@ -1,4 +1,4 @@
-import { useState } from "react";import { useState } from "react";
+import { useState } from "react";
 
 // ⚠️ SÉCURITÉ : Dans une vraie app, cette clé doit être côté serveur uniquement
 // Ne jamais exposer une clé API dans le code front en production
